@@ -12,6 +12,6 @@ for x in blog_views:
     total_views += x
 
 print(f"Total views = {total_views}")
-print(f"{total_trending} Posts are trendings")
+print(f"{total_trending} Posts are trending")
 
 

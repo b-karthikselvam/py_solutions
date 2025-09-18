@@ -43,7 +43,7 @@ cons.show_details()
 partti = parttime("hariharan",21,12.00) 
 partti.show_details()
 
-emp = employee("ajna",21,101) 
+emp = employee("akshai",21,101) 
 emp.show_details()
 
 per = person("hassan",21)

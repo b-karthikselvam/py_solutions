@@ -1,4 +1,4 @@
-import re
+
 name = input("Enter Your Name ")
 feedback = input("Enter Your feedback ")
 
@@ -13,7 +13,7 @@ except ValueError as error:
 else:
     print(f"""Name: {name}
 feedback: {feedback}
-Thank you for your valueable feedback""")
+Thank you for your valuable feedback""")
 
 finally:
     print("OPus CuiSine")
